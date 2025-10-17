@@ -107,15 +107,15 @@
   <div class="envelope" id="envelope"></div>
   <div class="scroll" id="scroll">
     <h1>🎲 YOUNG ADULTS GAME NIGHT!!! </h1>
-    <p><strong>Date</p>
-    <p><strong>October 31st</p>
-    <p><strong>Time</p>
-    <p><strong>6:00 PM</p>
-    <p><strong>Location</p>
-    <p><strong>1767 NE Regatta Dr</p>
-    <p><strong>Attire</p>
-    <p></strong> Costume or Pajamas</p>
-    <p><strong>Bring Your friends, your game face, and food to share!
+    <p><strong>Date
+    <p><strong>October 31st
+    <p><strong>Time
+    <p><strong>6:00 PM
+    <p><strong>Location
+    <p><strong>1767 NE Regatta Dr
+    <p><strong>Attire
+    <p><strong> Costume or Pajamas
+    <h1>♟️🧩 Bring Your friends, your game face, and food to share!</h1>
 
   <script>
     const envelope = document.getElementById('envelope');
