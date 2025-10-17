@@ -112,7 +112,6 @@
     <p><strong>Location:</strong> 1767 NE Regatta Dr</p>
     <p><strong>Attire:</strong> Costume or Pajamas</p>
     <p><strong>Bring Your friends, your game face, and food to share!</p>
-  </div>
 
   <script>
     const envelope = document.getElementById('envelope');
