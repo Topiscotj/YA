@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!GAME NIGHT INVITATION UPDATE!>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -111,7 +111,7 @@
     <p><strong>Time:</strong> 6:00 PM</p>
     <p><strong>Location:</strong> 1767 NE Regatta Dr</p>
     <p><strong>Attire:</strong> Costume or Pajamas</p>
-    <p><strong>Bring:</strong> Your friends, your game face, and food to share!</p>
+    <p><strong>Bring Your friends, your game face, and food to share!</p>
   </div>
 
   <script>
